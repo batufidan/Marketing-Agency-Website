@@ -6,6 +6,7 @@ import Link from "next/link";
 import WebsiteDesign from "./website-design";
 import GraphicDesign from "./graphic-design";
 import ShopifyStores from "./shopify-stores";
+import Brands from "./brands";
 
 export default function Home() {
   return (
@@ -32,6 +33,7 @@ export default function Home() {
           <WebsiteDesign />
           <GraphicDesign />
           <ShopifyStores />
+          <Brands />
         </div>
       </div>
     </h1>
