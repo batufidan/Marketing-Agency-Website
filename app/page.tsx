@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import WebsiteDesign from "./website-design";
 import GraphicDesign from "./graphic-design";
+import ShopifyStores from "./shopify-stores";
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
           <SliderOne />
           <WebsiteDesign />
           <GraphicDesign />
+          <ShopifyStores />
         </div>
       </div>
     </h1>
