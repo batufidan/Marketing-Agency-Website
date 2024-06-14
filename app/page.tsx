@@ -8,6 +8,7 @@ import GraphicDesign from "./graphic-design";
 import ShopifyStores from "./shopify-stores";
 import Brands from "./brands";
 import Services from "./services";
+import Faq from "./faq";
 
 export default function Home() {
   return (
@@ -36,6 +37,7 @@ export default function Home() {
           <ShopifyStores />
           <Brands />
           <Services />
+          <Faq />
         </div>
       </div>
     </h1>
