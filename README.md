@@ -1,4 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1265" alt="Ekran görüntüsü 2024-10-02 224734" src="https://github.com/user-attachments/assets/de4c68e0-c225-4111-bb2e-b09ca1ff35df">
+<img width="1259" alt="Ekran görüntüsü 2024-10-02 224755" src="https://github.com/user-attachments/assets/9b2755f1-4539-40c0-961e-186d3165cad8">
+<img width="1264" alt="Ekran görüntüsü 2024-10-02 224819" src="https://github.com/user-attachments/assets/74d4b895-8018-439f-8e13-1f75c8f3e9c1">
+<img width="1262" alt="Ekran görüntüsü 2024-10-02 224838" src="https://github.com/user-attachments/assets/dd1b72f0-b20c-4528-a573-f55fca5747aa">
+<img width="1265" alt="Ekran görüntüsü 2024-10-02 224910" src="https://github.com/user-attachments/assets/d3b0df2c-35db-45d6-a5b9-ae0a1465ce2d">
+<img width="1263" alt="Ekran görüntüsü 2024-10-02 224927" src="https://github.com/user-attachments/assets/338bb6b1-965a-49e2-9dad-62bccc959907">
+<img width="1264" alt="Ekran görüntüsü 2024-10-02 224943" src="https://github.com/user-attachments/assets/347e5a97-1250-46b9-b848-0e3242113ffb">
+
+
+
 
 ## Getting Started
 
